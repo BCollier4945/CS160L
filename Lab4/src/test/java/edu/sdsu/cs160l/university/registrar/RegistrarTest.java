@@ -2,10 +2,10 @@ package edu.sdsu.cs160l.university.registrar;
 
 import edu.sdsu.cs160l.university.criteria.SimpleCompScienceStudent;
 import edu.sdsu.cs160l.university.criteria.SimpleCompStudent;
-import edu.sdsu.cs160l.university.lab7.course.Course;
-import edu.sdsu.cs160l.university.lab7.course.CourseFactory;
-import edu.sdsu.cs160l.university.lab7.registrar.Registrar;
-import edu.sdsu.cs160l.university.lab7.student.*;
+import edu.sdsu.cs160l.university.course.Course;
+import edu.sdsu.cs160l.university.course.CourseFactory;
+import edu.sdsu.cs160l.university.registrar.Registrar;
+import edu.sdsu.cs160l.university.student.*;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
