@@ -15,6 +15,7 @@ import edu.sdsu.cs160l.university.lab5.registrar.Registrar;
  *  2) make cs150, cs160, cs210 and cs340 courses a singleton class (Refer Registrar for inspiration)
  *     a) Note your code change has a cascading change in you CourseFactory class (hint you can't do a "new" Anymore, use getInstance instead)
  *
+ * 
  * Remember design principle 1.
  * Program to and interface and not an Implementation.
  * <p>
